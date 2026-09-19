@@ -1,6 +1,6 @@
 package JavaCourse;
 
-import JavaCourse.ChapterOne.Variable;
+import JavaCourse.ChapterOne.*;
 import JavaCourse.ChapterOne.Number;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -13,7 +13,13 @@ public class Main {
         // so if we don't want to see these results we can comment out these lines
 
         //Chapter One
-        Variable.run();
-        Number.run();
+        // Data Types  , Variable  , Operators
+        //Variable.run();
+        //Number.run();
+        //TC.run();
+        //TC2.run();
+        Operators.run();
+
+
     }
 }
