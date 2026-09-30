@@ -2,6 +2,9 @@ package JavaCourse;
 
 import JavaCourse.ChapterOne.*;
 import JavaCourse.ChapterOne.Number;
+import JavaCourse.ChapterThree.StringLearning;
+import JavaCourse.ChapterTwo.ConditionalStat;
+import JavaCourse.ChapterTwo.Loops;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -18,8 +21,14 @@ public class Main {
         //Number.run();
         //TC.run();
         //TC2.run();
-        Operators.run();
+        //Operators.run();
 
+        //Chapter Two
+        //Loops.run();
+        //ConditionalStat.run();
+
+        // Chapter Three
+        StringLearning.run();
 
     }
 }
