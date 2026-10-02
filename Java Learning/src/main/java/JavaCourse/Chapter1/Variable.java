@@ -1,4 +1,4 @@
-package JavaCourse.ChapterOne;
+package JavaCourse.Chapter1;
 
 public class Variable {
     // lets practice Variable

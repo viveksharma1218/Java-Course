@@ -1,4 +1,4 @@
-package JavaCourse.ChapterThree;
+package JavaCourse.Chapter3;
 import java.lang.*;
 
 public class StringLearning {

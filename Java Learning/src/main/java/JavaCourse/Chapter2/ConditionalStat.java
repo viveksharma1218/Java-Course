@@ -1,4 +1,4 @@
-package JavaCourse.ChapterTwo;
+package JavaCourse.Chapter2;
 
 public class ConditionalStat {
     // let's practice conditional statements

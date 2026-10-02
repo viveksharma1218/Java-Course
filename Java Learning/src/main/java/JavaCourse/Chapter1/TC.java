@@ -1,6 +1,4 @@
-package JavaCourse.ChapterOne;
-
-import org.w3c.dom.ls.LSOutput;
+package JavaCourse.Chapter1;
 
 //let's practice Type Conversation and Type Casting
 public class TC {

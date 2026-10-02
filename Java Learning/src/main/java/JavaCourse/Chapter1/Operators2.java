@@ -1,4 +1,4 @@
-package JavaCourse.ChapterOne;
+package JavaCourse.Chapter1;
 
 public class Operators2 {
     public static void run(){
