@@ -2,7 +2,9 @@ package JavaCourse;
 
 import JavaCourse.Chapter2.ArrayLearning;
 import JavaCourse.Chapter2.ArrayLearning2;
+import JavaCourse.Chapter2.ArrayLearning3;
 import JavaCourse.Chapter3.StringLearning2;
+import JavaCourse.Chapter4.*;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -25,11 +27,20 @@ public class Main {
         //Loops.run();
         //ConditionalStat.run();
         //ArrayLearning.run();
-        ArrayLearning2.run();
+        //ArrayLearning2.run();
+        //ArrayLearning3.run();
 
         // Chapter Three
         //StringLearning.run();
         //StringLearning2.run();
+
+        // Chapter 4
+        //ObjectLearning.run();
+        //ObjectLearning2.run();
+        //Objectlearning3.run();
+        //Objectlearning4.run();
+        //Objectlearning5.run();
+        Objectlearning6.run();
 
     }
 }
