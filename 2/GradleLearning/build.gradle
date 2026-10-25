@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'JavaCourse'
-version = '0.0.1-SNAPSHOT'
+version = '1.0'
 description = 'GradleLearning'
 
 java {
@@ -26,4 +26,7 @@ dependencies {
 
 tasks.named('test') {
     useJUnitPlatform()
+}
+jar{
+    archiveBaseName='FirstGradleApp'
 }
